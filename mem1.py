@@ -31,4 +31,4 @@ candidatos_selecionados = buscar_candidatos_por_notas_minimas(candidatos, notas_
 print('Candidatos selecionados:')
 for candidato in candidatos_selecionados:
     notas = candidato['notas']
-    print(candidato['nome'] + ' '+ 'e_' + str(notas['e_'])+ 't_' + str(notas['t_'])+ 'p_' + str(notas['p_'])+ 's_' + str(notas['s_'])
+    print(candidato['nome'] + ' '+ 'e_' + str(notas['e_'])+ 't_' + str(notas['t_'])+ 'p_' + str(notas['p_'])+ 's_' + str(notas['s_']))
