@@ -24,6 +24,9 @@ Digite a nota mínima em E: 7
 Digite a nota mínima em T: 8
 Digite a nota mínima em P: 7
 Digite a nota mínima em S: 8
+Candidatos selecionados:
+Rodrigo e_7 t_8 p_9 s_8
+Aline e_8 t_9 p_7 s_7
 
 
 
